@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>br.com.eureka</groupId>
 	<artifactId>api-eureka-useraccess-spring</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>api-eureka-useraccess-spring</name>
 	<description>Eureka Server</description>
 
