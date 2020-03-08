@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.eureka</groupId>
-	<artifactId>api-eureka-useraccess-spring</artifactId>
+	<artifactId>api-eureka-server-spring</artifactId>
 	<version>0.0.1</version>
 	<name>api-eureka-useraccess-spring</name>
 	<description>Eureka Server</description>
